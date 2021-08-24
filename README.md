@@ -2,13 +2,6 @@
 <img alt="nathias" src="https://raw.githubusercontent.com/nath1as/nath1as/master/images/nths.gif">
 </p>
 
-```c
-int main() {
-  int y = "hmm";
-  int x = 5 + 6;
-  cout << "Hello World! " << x << std::endl();
-}
-```
 
 ```bash
 λ neofetch
