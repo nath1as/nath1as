@@ -18,7 +18,7 @@
          ./ooosssso++osssssso+`          GPU: Intel UHD Graphics 620
         .oossssso-````/ossssss+`         Resolution: 2560x1440
        -osssssso.      :ssssssso.        =====================
-      :osssssss/        osssso+++.       Uptime: 2 days, 2 hours, 27 mins
+      :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
