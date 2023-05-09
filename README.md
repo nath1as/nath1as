@@ -9,8 +9,8 @@
                   .o+`                   =====================
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Host: 20KH006MSC ThinkPad X1 Carbon 6th
-               `+oooooo:                 Kernel: Linux 5.13.12-arch1-1
-               -+oooooo+:                Shell: zsh 5.8
+               `+oooooo:                 Kernel: Linux 6.3.1-arch1-1
+               -+oooooo+:                Shell: zsh 5.9
              `/:-:++oooo+:               Terminal: st
             `/++++/+++++++:              Terminal Font: JoyPixels
            `/++++++++++++++:             ========================
