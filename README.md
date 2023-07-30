@@ -3,26 +3,23 @@
 </p>
 
 
-```bash
-λ neofetch
-                   -`                    nathias@xen0synthesis
-                  .o+`                   =====================
-                 `ooo/                   OS: Arch Linux
-                `+oooo:                  Host: 20KH006MSC ThinkPad X1 Carbon 6th
-               `+oooooo:                 Kernel: Linux 6.3.1-arch1-1
-               -+oooooo+:                Shell: zsh 5.9
-             `/:-:++oooo+:               Terminal: st
-            `/++++/+++++++:              Terminal Font: JoyPixels
-           `/++++++++++++++:             ========================
-          `/+++ooooooooooooo/`           CPU: Intel i7-8550U (8) @ 4.0GHz [48.0°C]
-         ./ooosssso++osssssso+`          GPU: Intel UHD Graphics 620
-        .oossssso-````/ossssss+`         Resolution: 2560x1440
-       -osssssso.      :ssssssso.        =====================
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
+```zsh
+                                      
+
+              /\           nathias@xen0synthesis
+             /  \          =====================
+            /\   \         OS: Arch Linux
+           /      \        Host: 20KH006MSC ThinkPad X1 Carbon 6th
+          /   ,,   \       Kernel: Linux 6.4.3-arch1-1
+         /   |  |  -\      Shell: zsh 5.9
+        /_-''    ''-_\     WM: i3
+                           Terminal: st
+                           Terminal Font: JoyPixels
+                           ========================
+                           CPU: Intel i7-8550U (8) @ 4.0GHz [61.0°C]
+                           GPU: Intel UHD Graphics 620
+                           Resolution: 1600x900 @ 59.99Hz
+                           ==============================
+
 
 ```  
